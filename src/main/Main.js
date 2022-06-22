@@ -8,9 +8,9 @@ export const Main = () => {
         <div className={style.mainBlock}>
             <div className={styleContainer.container}>
                 <div className={style.text}>
-                    <span>Hello</span>
-                    <h1>Я - Мартьянова Анастасия</h1>
-                    <p>Frontend Developer</p>
+                    <span>Привет!</span>
+                    <h1>Меня зовут Анастасия Мартьянова</h1>
+                    <p>Я Front-end разработчик</p>
                 </div>
                 <div className={style.photo}></div>
             </div>
