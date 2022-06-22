@@ -1,0 +1,23 @@
+.footer{
+    height: 130px;
+    background-color: #96d6f1;
+}
+.footerContainer{
+    flex-direction: column;
+    justify-content: space-between;
+}
+.title{
+    background-color: orange;
+}
+.contactBlock{
+    border: 1px solid;
+    width: 280px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    background-color: #d4b5f6;
+    display: flex;
+    width: 50px;
+}
